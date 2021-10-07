@@ -1,0 +1,8 @@
+name: redirectstester
+proxy:
+  webserver:
+    - redirects.lndo.site
+services:
+  webserver:
+    type: apache
+    webroot: redirects

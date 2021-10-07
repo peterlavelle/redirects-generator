@@ -1,0 +1,7 @@
+source,destination,redirect_code
+,,
+https://example.com/peter%20lavelle.pdf.exe,https://www.google.com,301
+https://example.com/peter%20lavelle.pdf.exe.doc,https://www.google.com,302
+https://example.com/peter%20lavelle.pdf.exe.doc2,https://www.google.com,301
+https://www.example.com/peterlavelle.jpg?myquery,https://www.yahoo.com/thisisatest,301
+https://www.example.com/peter%20lavelle.jpg?myquery,https://www.yahoo.com/thisisatest,302

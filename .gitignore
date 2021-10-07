@@ -1,0 +1,9 @@
+.vscode
+.vscode/*
+scripts/env
+urls/*.csv
+urls/*.bak
+urls/.~lock.urls.csv#
+reports/*.txt
+redirects/*.txt
+redirects/.htaccess
